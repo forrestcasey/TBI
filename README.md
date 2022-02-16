@@ -3,9 +3,13 @@ According to CDC data 166 Americans died every day from TBI-related injuries 201
 
 ## Data sources: 
 - CDC
+
 https://data.cdc.gov/Traumatic-Brain-Injury-/Rates-of-TBI-related-Emergency-Department-Visits-H/45um-c62r
+
 https://data.cdc.gov/Traumatic-Brain-Injury-/Rates-of-TBI-related-Emergency-Department-Visits-H/b4av-siev
+
 https://data.cdc.gov/Traumatic-Brain-Injury-/Rates-of-TBI-related-Deaths-by-Age-Group-United-St/nq6q-szvs
+
 https://www.cdc.gov/mmwr/volumes/68/wr/mm6846a2.htm#T1_down
 
 - US Census- if needed
